@@ -33,7 +33,7 @@ namespace LampelZiv
         static void encodearr()
         {
             string l,l1="";
-            bool f = false;
+            bool f = false; 
             for(int i = letters.Count-1;i>=0;i--)
             {
                 f = false;
